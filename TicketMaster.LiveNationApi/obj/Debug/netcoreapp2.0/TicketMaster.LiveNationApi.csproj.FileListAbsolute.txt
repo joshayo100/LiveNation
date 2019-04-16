@@ -1,0 +1,11 @@
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.deps.json
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.runtimeconfig.json
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.runtimeconfig.dev.json
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.dll
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.pdb
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.csproj.CoreCompileInputs.cache
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.AssemblyInfoInputs.cache
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.AssemblyInfo.cs
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.dll
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.pdb
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.csprojResolveAssemblyReference.cache

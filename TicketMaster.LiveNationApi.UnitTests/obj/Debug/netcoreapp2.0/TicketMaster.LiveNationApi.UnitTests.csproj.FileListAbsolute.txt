@@ -1,0 +1,17 @@
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.deps.json
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.runtimeconfig.json
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.runtimeconfig.dev.json
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.dll
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.pdb
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.dll
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\bin\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.pdb
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.AssemblyInfoInputs.cache
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.AssemblyInfo.cs
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.csproj.CopyComplete
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.dll
+C:\Users\jayonrinde836\Documents\Visual Studio 2017\webstuff\TicketMaster\TicketMaster.LiveNationApi.UnitTests\obj\Debug\netcoreapp2.0\TicketMaster.LiveNationApi.UnitTests.pdb
