@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketMaster.LiveNationApi", "TicketMaster.LiveNationApi\TicketMaster.LiveNationApi.csproj", "{0993F41A-4341-4A03-B11D-40D1BA4DAF8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketMaster.LiveNationApi.UnitTests", "TicketMaster.LiveNationApi.UnitTests\TicketMaster.LiveNationApi.UnitTests.csproj", "{8BF815FE-3A8E-474E-B086-23174339A3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0993F41A-4341-4A03-B11D-40D1BA4DAF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0993F41A-4341-4A03-B11D-40D1BA4DAF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0993F41A-4341-4A03-B11D-40D1BA4DAF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0993F41A-4341-4A03-B11D-40D1BA4DAF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF815FE-3A8E-474E-B086-23174339A3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF815FE-3A8E-474E-B086-23174339A3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF815FE-3A8E-474E-B086-23174339A3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF815FE-3A8E-474E-B086-23174339A3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07DE44BE-7BEF-4BED-994D-53F45A0D23B1}
+	EndGlobalSection
+EndGlobal
